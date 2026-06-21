@@ -2,7 +2,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ===== ТОКЕН =====
-TOKEN = "8885032571:AAHc0Y9-8LBevu2AxEZyE_8eN5v9wefrboA"
+TOKEN = "8904295863:AAGEfASNLj2dkyZJs2JnoPrL9OiI3DfUgaU"
 bot = telebot.TeleBot(TOKEN)
 
 # ===== ТАБЛИЦА ЦЕН =====
